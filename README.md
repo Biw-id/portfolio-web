@@ -18,7 +18,7 @@ Software Engineer & Front-End Developer lulusan S1 Sistem Informasi (IPK 3.64) d
 
 ## Dokumen Riwayat Hidup (Resume)
 
-- **CV Format ATS (Word):** [`assets/docs/CV_ATS_Abiyyu_Shiddiq_Asad.docx`](assets/docs/CV_ATS_Abiyyu_Shiddiq_Asad.docx)
+- **CV Format ATS (PDF):** [`assets/docs/CV_ATS_Abiyyu_Shiddiq_Asad.pdf`](assets/docs/CV_ATS_Abiyyu_Shiddiq_Asad.pdf)
 - **Portofolio Visual Cetak (PDF 2 Halaman):** [`assets/docs/Portofolio_Abiyyu_Shiddiq_Asad.pdf`](assets/docs/Portofolio_Abiyyu_Shiddiq_Asad.pdf)
 
 ---
